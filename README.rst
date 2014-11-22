@@ -22,7 +22,7 @@ For NeoBundle_ add the following to your `.vimrc`::
 For Pathogen_, execute::
 
     cd ~/.vim/bundle
-    git clone https://github.com/dbakker/vim-holmes.git
+    git clone https://github.com/dbakker/vim-adjustscroll
     vim +Helptags +q
 
 That's pretty much it!
